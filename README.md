@@ -1,3 +1,3 @@
-<a href="https://github.com/Veer6696/Real-time-online-IDE" target="_blank">
+<a href="https://veer6696.github.io/Portfolio/">
 🚀 View Project
 </a>
